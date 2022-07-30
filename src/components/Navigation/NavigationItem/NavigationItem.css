@@ -1,0 +1,17 @@
+.NavigationItem {
+  font-size: 20px;
+  color: rgb(253, 122, 75);
+  font-weight: 200;
+  margin-left: 20px;
+}
+
+.NavigationItem:hover,
+.NavigationItem .active {
+  opacity: 0.8;
+  font-weight: 400;
+}
+
+.NavigationItem a {
+  color: inherit;
+  text-decoration: none;
+}

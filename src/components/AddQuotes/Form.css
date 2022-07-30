@@ -1,0 +1,33 @@
+.records_form {
+  display: flex;
+  justify-content: center;
+  margin-left: 500px;
+}
+
+.form_records {
+  display: flex;
+  flex-direction: column;
+}
+
+.records_add_btn {
+  margin-top: 20px;
+  margin-left: 10px;
+  padding: 6px 190px 6px 190px;
+  background: rgb(255, 160, 88);
+  border: 0.1px solid rgb(10, 16, 21);
+  cursor: pointer;
+}
+
+textarea {
+  width: 400px;
+  margin: 10px;
+  height: 60px;
+}
+.select {
+  width: 406px;
+  margin-left: 10px;
+  height: 30px;
+}
+.name_categories {
+  margin-left: 110px;
+}

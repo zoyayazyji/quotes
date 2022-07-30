@@ -1,0 +1,44 @@
+.menu_category_container {
+  width: 200px;
+  height: 100%;
+  background-color: white;
+  margin-top: -70px;
+  padding-top: 100px;
+  position:fixed;
+  color: rgb(253, 122, 75);;
+}
+
+.menu_category {
+ cursor: pointer;
+ margin-left: 15px;
+ text-decoration: none;
+ font-weight: 200;
+ font-size: 18px;
+ 
+}
+.menu_category:hover {
+  color: rgb(135, 52, 1);
+  font-weight: 400;
+}
+
+.title_list {
+  margin-left: 15px;
+  font-size: 20px;
+  color: rgb(253, 122, 75);
+  font-weight: 300;
+}
+.menu_category_container {
+  margin-right: 290px;
+}
+.all {
+  cursor: pointer;
+  margin-left: 15px;
+
+  font-size: 18px;
+  color: rgb(253, 122, 75);
+  font-weight: 200;
+}
+.all:hover {
+  color: rgb(135, 52, 1);
+  font-weight: 400;
+}

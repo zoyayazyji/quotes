@@ -1,0 +1,11 @@
+.edit_quote_container {
+  display: flex; 
+  flex-direction: column;
+  
+}
+.form_header {
+  margin-left: 500px;
+}
+.choose_categories {
+  margin-left: 110px;
+}

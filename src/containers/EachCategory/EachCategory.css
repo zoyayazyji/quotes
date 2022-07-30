@@ -1,0 +1,19 @@
+.eachPost_container {
+  display: block;
+  width: 900px;
+  height: 150px;
+  background: rgb(254, 176, 116);
+  box-shadow: 9px 8px 8px 3px rgba(34, 60, 80, 0.2);
+  margin: 10px; 
+   padding: 7px;
+  border-radius: 8px;
+  margin-left: 220px;
+}
+.eachQuote_category {
+  font-size: 12px;
+  font-style: italic;
+}
+.eachQuote_container {
+  display: flex;
+  flex-direction: column;
+}

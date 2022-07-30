@@ -1,0 +1,29 @@
+.list_quates {
+  display: block;
+ width: 900px;
+ height: 150px;
+ background: rgb(254, 176, 116);
+ box-shadow: 9px 8px 8px 3px rgba(34, 60, 80, 0.2);
+ margin: 10px; 
+  padding: 7px;
+ border-radius: 8px;
+ margin-left: 200px;
+}
+.quote_category {
+  font-size: 12px;
+  font-style: italic;
+}
+.btn_container {
+  display: flex;
+  font-size: 12px;
+ 
+}
+.remove_btn {
+  margin-right: 10px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.remove_btn:hover {
+  color: #fff;
+}
